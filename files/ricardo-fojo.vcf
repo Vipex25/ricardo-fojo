@@ -3,7 +3,7 @@ VERSION:3.0
 FN:Ricardo Fojo
 N:;Ricardo Fojo;;;
 TITLE:Maintenance & Industrial Methods
-TEL;TYPE=CELL:+351000000000
+TEL;TYPE=CELL:+351918468681 
 EMAIL;TYPE=INTERNET:ricardo.fojo@vipex.pt
 URL:https://vipex25.github.io/ricardo-fojo/
 item1.URL;type=pref:https://pt.linkedin.com/company/vipex-plastics
@@ -12,4 +12,5 @@ item2.URL;type=pref:https://www.vipex.pt/
 item2.X-ABLabel:Website
 item3.URL;type=pref:https://maps.app.goo.gl/QeAVZR8oF2E2f2Xu5
 item3.X-ABLabel:Location
+
 END:VCARD
